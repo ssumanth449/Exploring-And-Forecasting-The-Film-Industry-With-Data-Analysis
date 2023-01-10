@@ -1,0 +1,5 @@
+Find the movies with highest profit
+Find IMDb Top 250
+Find the best directors
+Popular Genres
+Find the critic-favorite and audience-favorite actors
